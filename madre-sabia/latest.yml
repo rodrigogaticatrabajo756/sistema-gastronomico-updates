@@ -1,8 +1,8 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: Stock-Madre-Sabia-Setup-1.0.4.exe
-    sha512: 3X5QZqtsCik5Ec56+nU3mqZ/7TZVQO32WhYIbmILqHskLlFIt2IucvWRFpapaIMy0i09TgAYcYTrnUaH/JuWjQ==
-    size: 88556053
-path: Stock-Madre-Sabia-Setup-1.0.4.exe
-sha512: 3X5QZqtsCik5Ec56+nU3mqZ/7TZVQO32WhYIbmILqHskLlFIt2IucvWRFpapaIMy0i09TgAYcYTrnUaH/JuWjQ==
-releaseDate: '2026-06-03T19:40:40.173Z'
+  - url: Stock-Madre-Sabia-Setup-1.0.5.exe
+    sha512: GQ0uwI4SaXzGBuUDa+XKu4W3gAZy5ovE/SRd7/+Bmtsx4MM1GJgZeQs6s9NfXSVVf0muagf2n5bkS9v51v1xtA==
+    size: 88556050
+path: Stock-Madre-Sabia-Setup-1.0.5.exe
+sha512: GQ0uwI4SaXzGBuUDa+XKu4W3gAZy5ovE/SRd7/+Bmtsx4MM1GJgZeQs6s9NfXSVVf0muagf2n5bkS9v51v1xtA==
+releaseDate: '2026-06-03T20:25:55.033Z'
