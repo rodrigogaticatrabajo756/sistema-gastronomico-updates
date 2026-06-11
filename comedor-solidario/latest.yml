@@ -1,8 +1,8 @@
-version: 1.0.6
+version: 1.0.7
 files:
-  - url: Stock-Comedor-Solidario-Setup-1.0.6.exe
-    sha512: CtW3tjqOPPI5N1uXfCVKayAPGxlq5zPAzoMkdG79yoBwGwAe4Ax+thfNq459ocUZFiohYkr0AfaHiLc1SEq/hw==
-    size: 88559412
-path: Stock-Comedor-Solidario-Setup-1.0.6.exe
-sha512: CtW3tjqOPPI5N1uXfCVKayAPGxlq5zPAzoMkdG79yoBwGwAe4Ax+thfNq459ocUZFiohYkr0AfaHiLc1SEq/hw==
-releaseDate: '2026-06-04T01:51:22.368Z'
+  - url: Stock-Comedor-Solidario-Setup-1.0.7.exe
+    sha512: ndYSACPstvMj/0A322z9o7ag6I+Z/W3/WuNGqvrf//8VFf0mz/1ptj8Ar1QcD9G2/RtfjLTTpqQcPIDC3fiWsA==
+    size: 88560738
+path: Stock-Comedor-Solidario-Setup-1.0.7.exe
+sha512: ndYSACPstvMj/0A322z9o7ag6I+Z/W3/WuNGqvrf//8VFf0mz/1ptj8Ar1QcD9G2/RtfjLTTpqQcPIDC3fiWsA==
+releaseDate: '2026-06-11T00:01:26.941Z'
